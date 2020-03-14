@@ -1,0 +1,28 @@
+{
+  "name": "BaiduRegisteration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-contrib-htmlmin": "^3.1.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiilienaya/BaiduRegisteration.git"
+  },
+  "keywords": [],
+  "author": "xiilienaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiilienaya/BaiduRegisteration/issues"
+  },
+  "homepage": "https://github.com/xiilienaya/BaiduRegisteration#readme"
+}
